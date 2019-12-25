@@ -1,0 +1,11 @@
+D:\Projects\Picture Format Converter\bin\Debug\Picture Format Converter.exe.config
+D:\Projects\Picture Format Converter\bin\Debug\Picture Format Converter.exe
+D:\Projects\Picture Format Converter\bin\Debug\Picture Format Converter.pdb
+D:\Projects\Picture Format Converter\obj\Debug\Picture Format Converter.csprojAssemblyReference.cache
+D:\Projects\Picture Format Converter\obj\Debug\Picture_Format_Converter.Form1.resources
+D:\Projects\Picture Format Converter\obj\Debug\Picture_Format_Converter.Properties.Resources.resources
+D:\Projects\Picture Format Converter\obj\Debug\Picture Format Converter.csproj.GenerateResource.cache
+D:\Projects\Picture Format Converter\obj\Debug\Picture Format Converter.exe
+D:\Projects\Picture Format Converter\obj\Debug\Picture Format Converter.pdb
+D:\Projects\Picture Format Converter\obj\Debug\Picture_Format_Converter.Form2.resources
+D:\Projects\Picture Format Converter\obj\Debug\Picture_Format_Converter.Form3.resources
